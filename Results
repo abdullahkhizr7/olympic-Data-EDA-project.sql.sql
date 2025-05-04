@@ -1,0 +1,708 @@
+1--which team has won the maximum gold medals over the years.
+| Team           | Gold Medals Won |
+|----------------|-----------------|
+| United States  | 2515            |
+
+
+
+
+2--for each team print total silver medals and year in which they won maximum silver medal..output 3 columns
+-- team,total_silver_medals, year_of_max_silver
+Team                                            | Count | Year
+------------------------------------------------|-------|------
+Albania                                         |     1 | 2000
+Algeria                                         |     4 | 2016
+Argentina                                       |    84 | 1996
+Armenia                                         |     5 | 2016
+Aschenbrodel                                    |     4 | 1900
+Atalanta Boat Club-1                            |     2 | 1904
+Athens-2                                        |     1 | 1906
+Australasia                                     |     5 | 1908
+Australia                                       |   453 | 2004
+Austria                                         |   168 | 1936
+Austria-1                                       |    10 | 1968
+Austria-1                                       |    10 | 1964
+Austria-2                                       |     6 | 1964
+Austria-2                                       |     6 | 1968
+Austria-2                                       |     6 | 2014
+Azerbaijan                                      |    13 | 2016
+Bahamas                                         |    11 | 2008
+Bahrain                                         |     1 | 2016
+Barion/Bari-2                                   |     3 | 1906
+Belarus                                         |    39 | 2012
+Belgium                                         |   155 | 1920
+Belgium-1                                       |     1 | 1948
+Belgium-2                                       |     1 | 1948
+BLO Polo Club, Rugby                            |     6 | 1900
+Bohemia                                         |     1 | 1900
+Bonzo                                           |     4 | 1924
+Boreas-2                                        |     2 | 1920
+Botswana                                        |     1 | 2012
+Brazil                                          |   161 | 1984
+Brazil-1                                        |     9 | 2000
+Brazil-2                                        |     5 | 1996
+Brussels Swimming and Water Polo Club           |    13 | 1900
+Brynhild-2                                      |     1 | 1900
+Bulgaria                                        |   144 | 1980
+Burundi                                         |     1 | 2016
+Cameroon                                        |     2 | 2008
+Cameroon                                        |     2 | 1968
+Canada                                          |   407 | 1984
+Canada-1                                        |    10 | 2014
+Canada-2                                        |     3 | 2014
+Chicago Athletic Association-2                  |    10 | 1904
+Chile                                           |     9 | 1952
+China                                           |   332 | 1996
+China-1                                         |     4 | 1992
+China-2                                         |    10 | 2008
+China-3                                         |     2 | 2006
+Chinese Taipei                                  |    27 | 1992
+Chok                                            |     2 | 1968
+Christian Brothers' College-1                   |    11 | 1904
+Club Nautique de Lyon-2                         |     4 | 1900
+Colombia                                        |     8 | 2012
+Comanche                                        |     2 | 1952
+Cornwall                                        |    15 | 1908
+Costa Rica                                      |     1 | 1988
+Cote d'Ivoire                                   |     1 | 1984
+Crabe II-12                                     |     5 | 1900
+Croatia                                         |    46 | 2016
+Cuba                                            |   128 | 2000
+Cyprus                                          |     1 | 2012
+Czech Republic                                  |    23 | 2014
+Czech Republic-1                                |     1 | 2012
+Czech Republic-2                                |     2 | 2008
+Czechoslovakia                                  |   234 | 1964
+Czechoslovakia-1                                |     4 | 1992
+Czechoslovakia-1                                |     4 | 1996
+Denmark                                         |   220 | 1912
+Denmark-1                                       |     1 | 2016
+Djinn                                           |     3 | 1948
+Dominican Republic                              |     2 | 2012
+Dominican Republic                              |     2 | 2008
+East Germany                                    |   325 | 1980
+East Germany-1                                  |     9 | 1984
+East Germany-2                                  |    11 | 1988
+Ecuador                                         |     1 | 2008
+Egypt                                           |     8 | 2012
+Egypt                                           |     8 | 1948
+Elisabeth X                                     |     5 | 1952
+Elsie                                           |     4 | 1920
+Emily                                           |     4 | 1924
+Encore                                          |     3 | 1952
+England                                         |    12 | 1912
+Erna Signe                                      |    10 | 1912
+Estonia                                         |    10 | 1936
+Estonia                                         |    10 | 1920
+Ethiopia                                        |     9 | 2004
+Falcon IV                                       |     2 | 1956
+Favorite-17                                     |     8 | 1900
+Finland                                         |   263 | 2006
+Fornebo                                         |     4 | 1920
+Fram                                            |     1 | 1936
+France                                          |   524 | 1920
+France-1                                        |     4 | 1992
+Frankfurt Club                                  |    15 | 1900
+Gabon                                           |     1 | 2012
+Gallant                                         |     5 | 1932
+Georgia                                         |     6 | 2012
+Germany                                         |   603 | 1936
+Germany-1                                       |    14 | 1992
+Germany-2                                       |     6 | 2010
+Ghana                                           |     1 | 1960
+Gitana-21                                       |     5 | 1900
+Glider                                          |     2 | 1964
+Great Britain                                   |   591 | 1908
+Great Britain-1                                 |     9 | 1924
+Great Britain-2                                 |     3 | 1908
+Greece                                          |    74 | 2004
+Greece                                          |    74 | 1896
+Grenada                                         |     1 | 2016
+Guatemala                                       |     1 | 2012
+Haiti                                           |     1 | 1928
+Hi-Hi                                           |     2 | 1928
+Hollandia                                       |     6 | 1928
+Hong Kong                                       |     2 | 2004
+Humbug V                                        |     1 | 1972
+Hungaria Evezos Egylet                          |     1 | 1932
+Hungary                                         |   329 | 1972
+Hungary-1                                       |     1 | 1948
+Hurlingham-2                                    |     2 | 1908
+Iceland                                         |    15 | 2008
+Ilderim                                         |     1 | 1952
+India                                           |    21 | 1960
+Indonesia                                       |    12 | 1988
+Indonesia-1                                     |     5 | 1992
+Indonesia-1                                     |     5 | 2000
+Indonesia-2                                     |     1 | 2008
+Iran                                            |    21 | 2012
+Ireland                                         |    13 | 2016
+Ireland-2                                       |    12 | 1908
+Ireland-3                                       |     4 | 1908
+Israel                                          |     1 | 1992
+Italy                                           |   507 | 2004
+Italy                                           |   507 | 2016
+Italy-1                                         |     3 | 1972
+Italy-2                                         |    10 | 1956
+Jamaica                                         |    77 | 2000
+Japan                                           |   307 | 2012
+Japan-1                                         |     2 | 2012
+Joy                                             |     1 | 1932
+K Division Metropolitan Police Team-3           |     3 | 1912
+Kazakhstan                                      |    19 | 2016
+Kazakhstan                                      |    19 | 2000
+Kazakhstan                                      |    19 | 2008
+Kenya                                           |    41 | 1968
+Kurush II                                       |     2 | 1948
+Kyrgyzstan                                      |     1 | 2008
+Lady C                                          |     2 | 1964
+Latvia                                          |    13 | 2004
+Latvia-1                                        |     4 | 2014
+Leander Club #1-1                               |     2 | 1908
+Leander Club #2-2                               |     2 | 1908
+Leander Club-1                                  |     2 | 1920
+Leander Club-2                                  |     2 | 1908
+Lebanon                                         |     2 | 1952
+Lebanon                                         |     2 | 1972
+Legionario                                      |     2 | 1956
+Lerina                                          |     3 | 1900
+Liechtenstein                                   |     2 | 1980
+Life boat naval ship "Spetsai"-1                |     6 | 1906
+Lithuania                                       |     7 | 2008
+Lithuania                                       |     7 | 2016
+Lithuania                                       |     7 | 2004
+Liverpool Police Team-2                         |     8 | 1908
+London City Police-1                            |     3 | 1912
+Lully II                                        |     4 | 1936
+Luxembourg                                      |     4 | 1992
+Lyn-2                                           |     6 | 1920
+Malaysia                                        |     9 | 2016
+Malaysia-1                                      |     2 | 1996
+Ma'Lindo                                        |     1 | 1960
+Mamie-4                                         |     4 | 1900
+Marmi II-1                                      |     2 | 1920
+Martha-27                                       |     4 | 1900
+Mascotte                                        |     3 | 1900
+Matrero II                                      |     1 | 1948
+Mexico                                          |    26 | 2012
+Minerva Amsterdam                               |     5 | 1900
+Mongolia                                        |    10 | 1980
+Mongolia                                        |    10 | 2008
+Mongolia                                        |    10 | 2012
+Montenegro                                      |    14 | 2012
+Morocco                                         |     5 | 2008
+Morocco                                         |     5 | 2000
+Morocco                                         |     5 | 1992
+Morocco                                         |     5 | 2004
+Morocco                                         |     5 | 1960
+Moseley Wanderers                               |    15 | 1900
+Mouchette-2                                     |    10 | 1908
+Mound City Rowing Club-2                        |     4 | 1904
+Mutafo                                          |     3 | 1964
+Namibia                                         |     4 | 1992
+Namibia                                         |     4 | 1996
+Netherlands                                     |   323 | 2004
+Netherlands Antilles                             |     1 | 1988
+New College, Oxford-2                           |     9 | 1912
+New Zealand                                     |    55 | 2016
+Niger                                           |     1 | 2016
+Nigeria                                         |    32 | 2008
+Nina                                            |     7 | 1912
+North Korea                                     |    16 | 2004
+Norway                                          |   330 | 1920
+Norwegian Rowing Association                    |     1 | 1920
+Nurdug II                                       |     3 | 1912
+Omas Helliniki P. S.                            |     8 | 1906
+Osborne Swimming Club, Manchester               |     1 | 1906
+Pakistan                                        |    43 | 1964
+Pampero                                         |     2 | 1960
+Pan-Hellenic Athletic Club                      |     2 | 1906
+Paraguay                                        |    17 | 2004
+Peru                                            |    14 | 1988
+Phalainis ton Thorichtou "Hydra"-2              |    16 | 1906
+Philippines                                     |     3 | 1964
+Philippines                                     |     3 | 1996
+Philippines                                     |     3 | 2016
+Poland                                          |   195 | 1976
+Portugal                                        |     7 | 2012
+Portugal                                        |     7 | 1976
+Puerto Rico                                     |     2 | 1984
+Puerto Rico                                     |     2 | 2012
+Qatar                                           |     1 | 2016
+Quand-Mme-2                                     |     1 | 1900
+Quand-Mme-33                                    |     4 | 1900
+Racing Club de France                           |     9 | 1900
+Ravenswood Boat Club-2                          |     2 | 1904
+Roddklubben af 1912-1                           |     5 | 1912
+Romania                                         |   202 | 1988
+Rose Pompon                                     |     3 | 1920
+Rostock                                         |     1 | 1936
+Royal Club Nautique de Gand                     |    22 | 1908
+Royal Club Nautique de Gand                     |    22 | 1900
+Rush V                                          |     2 | 1964
+Rush VII                                        |     1 | 1964
+Russia                                          |   291 | 2000
+Russia-1                                        |     3 | 2014
+Russia-2                                        |     5 | 1998
+Russia-2                                        |     5 | 2014
+Russia-3                                        |     3 | 2002
+Saar                                            |     3 | 1960
+Sans Atout-1                                    |     5 | 1912
+Santa Maria                                     |     6 | 1932
+Saudi Arabia                                    |     1 | 2000
+Scamasaxe-34                                    |     1 | 1900
+Senegal                                         |     1 | 1988
+Serbia                                          |    28 | 2016
+Serbia and Montenegro                           |    25 | 2004
+Silja                                           |     4 | 1936
+Singapore                                       |     4 | 2008
+Sirene                                          |     1 | 1968
+Skum                                            |     2 | 1960
+Slaghoken                                       |     3 | 1948
+Slovakia                                        |    16 | 2008
+Slovakia                                        |    16 | 2016
+Slovenia                                        |    13 | 2010
+Slovenia                                        |    13 | 2014
+Slovenia                                        |    13 | 2008
+Slovenia                                        |    13 | 2016
+Slovenia                                        |    13 | 2004
+Slovenia                                        |    13 | 1996
+Smyrna                                          |    11 | 1906
+Snap                                            |     2 | 1960
+Snap                                            |     2 | 1956
+Snude                                           |     1 | 1968
+Societ Nautique de la Marne-1                   |     2 | 1900
+Socit Nautique de Bayonne                       |     1 | 1920
+Socit Nautique de la Basse Seine-1              |     3 | 1906
+South Africa                                    |    47 | 1920
+South Korea                                     |   223 | 1996
+South Korea-1                                   |     3 | 1996
+South Korea-2                                   |     6 | 2000
+South Korea-2                                   |     6 | 2004
+Soviet Union                                    |   766 | 1980
+Soviet Union-1                                  |     4 | 1984
+Soviet Union-1                                  |     4 | 1988
+Soviet Union-2                                  |    11 | 1988
+Soviet Union-2                                  |    11 | 1972
+Soviet Union-2                                  |    11 | 1968
+Soviet Union-2                                  |    11 | 1976
+Soviet Union-2                                  |    11 | 1980
+Soviet Union-3                                  |     2 | 1984
+Spain                                           |   242 | 2008
+Spain-1                                         |     1 | 2004
+Sri Lanka                                       |     2 | 2000
+Sri Lanka                                       |     2 | 1948
+St. Louis Amateur Athletic Association          |    12 | 1904
+St. Louis Southwest Turnverein #1-2             |     5 | 1904
+St. Louis Southwest Turnverein #2-3             |     1 | 1904
+Sudan                                           |     1 | 2008
+Sunshine                                        |     2 | 1936
+Sweden                                          |   479 | 1912
+Sweden-2                                        |     2 | 1912
+Sweden-2                                        |     2 | 2008
+Switzerland                                     |   211 | 1948
+Switzerland-1                                   |    14 | 1998
+Switzerland-2                                   |    18 | 1936
+Switzerland-2                                   |    18 | 1994
+Symphony                                        |     2 | 1948
+Syria                                           |     1 | 1984
+Tajikistan                                      |     1 | 2008
+Tan-Fe-Pah                                      |     2 | 1920
+Tango                                           |     1 | 1960
+Tanzania                                        |     2 | 1980
+Thailand                                        |     8 | 2008
+Thailand                                        |     8 | 2012
+Thailand                                        |     8 | 2016
+Thames Rowing Club                              |     5 | 1912
+Tip                                             |     2 | 1956
+Tonga                                           |     1 | 1996
+Tornado                                         |     2 | 1952
+Toronto Argonauts                               |     9 | 1904
+Trans-Mississippi Golf Association-2            |     1 | 1904
+Trinidad and Tobago                             |     8 | 2012
+Tritons Lillois-2                               |     4 | 1900
+Tunisia                                         |     3 | 1964
+Tunisia                                         |     3 | 1972
+Tunisia                                         |     3 | 2012
+Turkey                                          |    26 | 1948
+Turkmenistan                                    |     1 | 2016
+Turquoise-1                                     |     1 | 1900
+Uganda                                          |     3 | 1972
+Uganda                                          |     3 | 1968
+Uganda                                          |     3 | 1980
+Ukraine                                         |    52 | 2000
+Unified Team                                    |    95 | 1992
+Unified Team-1                                  |     5 | 1994
+Unified Team-1                                  |     5 | 2014
+Unified Team-2                                  |     4 | 1994
+Unified Team-2                                  |     4 | 1992
+Union des Socits Franais de Sports Athletiques  |    12 | 1900
+Unique                                          |     3 | 1956
+United Arab Republic                            |     1 | 1960
+United States                                   |  1546 | 1984
+United States Virgin Islands                    |     1 | 1988
+United States/France                            |     1 | 1900
+United States-1                                 |    21 | 1928
+United States-1                                 |    21 | 1952
+United States-1                                 |    21 | 2006
+United States-1                                 |    21 | 2002
+United States-2                                 |    17 | 1952
+United States-2                                 |    17 | 1932
+Uruguay                                         |     2 | 2000
+Uruguay                                         |     2 | 1948
+USFSA                                           |    13 | 1900
+Uzbekistan                                      |     7 | 2008
+Uzbekistan                                      |     7 | 2016
+Venezuela                                       |     3 | 2016
+Venezuela                                       |     3 | 1980
+Venezuela                                       |     3 | 1976
+Vesper Boat Club                                |     1 | 1904
+Vietnam                                         |     3 | 2016
+Vietnam                                         |     3 | 2000
+Vietnam                                         |     3 | 2008
+Vinga-1                                         |     5 | 1908
+Vision                                          |     1 | 1956
+Web II                                          |     2 | 1960
+West Germany                                    |   189 | 1984
+West Germany-1                                  |     8 | 1972
+West Germany-2                                  |     2 | 1976
+West Germany-2                                  |     2 | 1992
+Wiking                                          |     1 | 1948
+Ylliam II                                       |     1 | 1968
+Ylliam VII                                      |     1 | 1968
+Yugoslavia                                      |   180 | 1988
+Zambia                                          |     1 | 1996
+Zimbabwe                                        |     4 | 2008
+Zut                                             |     4 | 1908
+
+
+
+
+3-- which player has won maximum gold medals  amongst the players 
+--which have won only gold medal (never won silver or bronze) over the years
+Name                          | Medal_Won
+-----------------------------|-----------
+Michael Fred Phelps, II      | 23
+
+
+
+
+--4 in each year which player has won maximum gold medal . Write a query to print year,player name 
+--and no of golds won in that year . In case of a tie print comma separated player names.
+Year | Name                                                                                                                   
+-----|------------------------------------------------------------------------------------------------------------------------
+1896 | Carl Schuhmann                                                                                                         
+1900 | Alvin Christian "Al" Kraenzlein                                                                                        
+1904 | Anton Heida                                                                                                            
+1906 | Giorgio Cesana, Francesco Verri, Emilio Fontanella, Enrico Bruna, Louis Marcel Richardet, Maxime Omer Mathieu "Max" Omer-Dcugis
+1908 | Melvin Winfield "Mel" Sheppard, Henry Taylor                                                                           
+1912 | Gustaf Vilhelm Carlberg, Alfred Page "Al" Lane, Johan Pietari "Hannes" Kolehmainen                                     
+1920 | Nedo Nadi, Willis Augustus Lee, Jr.                                                                                    
+1924 | Paavo Johannes Nurmi                                                                                                   
+1928 | Georg "Georges" Miez                                                                                                   
+1932 | Helene Emma Madison, Romeo Neri                                                                                        
+1936 | James Cleveland "Jesse" Owens                                                                                          
+1948 | Francina Elsje "Fanny" Blankers-Koen                                                                                   
+1952 | Viktor Ivanovych Chukarin                                                                                              
+1956 | gnes Keleti-Srkny (Klein), Larysa Semenivna Latynina (Diriy-)                                                          
+1960 | Borys Anfiyanovych Shakhlin                                                                                            
+1964 | Lidiya Pavlovna Skoblikova (-Polozkova), Donald Arthur "Don" Schollander                                               
+1968 | Vra slavsk (-Odloilov), Akinori Nakayama                                                                               
+1972 | Mark Andrew Spitz                                                                                                      
+1976 | Nikolay Yefimovich Andrianov, John Phillips Naber, Kornelia Ender (-Matthes, -Grummt)                                  
+1980 | Eric Arthur Heiden                                                                                                     
+1984 | Frederick Carlton "Carl" Lewis, Ecaterina (Katalin-) Szabo (-Tamas)                                                    
+1988 | Kristin Otto                                                                                                           
+1992 | Vitaly Venediktovich Shcherbo                                                                                          
+1994 | Lyubov Ivanovna Yegorova, Johann Olav Koss                                                                             
+1996 | Amy Deloris Van Dyken (-Rouen)                                                                                         
+1998 | Larisa Yevgenyevna Lazutina (Ptitsyna-)                                                                                
+2000 | Leontine Martha Henrica Petronella "Leontien" Zijlaard-van Moorsel, Lenny Krayzelburg, Jennifer Elisabeth "Jenny" Thompson (-Cumpelik), Inge de Bruijn, Ian James Thorpe
+2002 | Ole Einar Bjrndalen                                                                                                    
+2004 | Michael Fred Phelps, II                                                                                                
+2006 | Jin Seon-Yu, Michael Greis, Viktor An                                                                                  
+2008 | Michael Fred Phelps, II                                                                                                
+2010 | Wang Meng, Marit Bjrgen                                                                                                
+2012 | Michael Fred Phelps, II, Melissa Jeanette "Missy" Franklin                                                              
+2014 | Viktor An, Darya Vladimirovna Domracheva, Marit Bjrgen                                                                 
+2016 | Michael Fred Phelps, II                                                                                                
+
+
+
+
+
+
+--5 in which event and year India has won its first gold medal,first silver medal and first bronze medal
+--print 3 columns medal,year,sport
+Medal  | Year | Sport    
+-------|------|---------
+Bronze | 1952 | Wrestling
+Gold   | 1924 | Alpinism 
+Silver | 1900 | Athletics
+
+
+
+
+--6 find players who won gold medal in summer and winter olympics both.
+Name                           | 
+-------------------------------|
+Aleksandr Vladimirovich Popov  | 
+
+
+
+--7 find players who won gold, silver and bronze medal in a single olympics. print player name along with year.
+Name                                    | Year
+----------------------------------------|------
+Alexander Viggo Jensen                  | 1896
+Hermann Otto Ludwig Weingrtner          | 1896
+Ioannis Frangoudis                      | 1896
+James Brendan Bennet Connolly           | 1896
+Marie Lon Flameng                       | 1896
+Hermanus Gerardus Brockmann             | 1900
+Nicolas Achille Paroche                 | 1900
+Sidney John Robinson                    | 1900
+Walter Beardsley Tewksbury              | 1900
+Albertson Van Zo Post                   | 1904
+Burton Cecil Downing                    | 1904
+Charles Meldrum "Charlie" Daniels       | 1904
+George Louis Eyser                      | 1904
+Ralph Waldo Rose                        | 1904
+Henry Taylor                            | 1906
+Jean Fouconnier                         | 1906
+Jean Reich                              | 1906
+Lon Ernest Moreaux                      | 1906
+Marcel Carlos Paul Gaston Delaplane     | 1906
+Major Josiah George Ritchie             | 1908
+Carl Townsend Osburn                    | 1912
+Charles Percy Dixon                     | 1912
+Jacques Cariou                          | 1912
+Johan Hbner von Holst                   | 1912
+Bevil Gordon d'Urban Rudd               | 1920
+Carl Townsend Osburn                    | 1920
+Julien Louis Brul                       | 1920
+Kathleen "Kitty" McKane (-Godfree)      | 1920
+Lawrence Adam "Larry" Nuesslein         | 1920
+Lloyd Spencer Spooner                   | 1920
+Willis Augustus Lee, Jr.                | 1920
+Andrew Murray "Boy" Charlton            | 1924
+Arnold Clas Robert Thunberg             | 1924
+Julius Ferninand Skutnabb               | 1924
+Otto Martin Olsen                       | 1924
+Sndor Psta                             | 1924
+Bernt Sverre Evensen                    | 1928
+Hermann Hnggi                           | 1928
+Konrad Frey                             | 1936
+Josef "Sepp" Stalder                    | 1948
+Veikko Aarne Aleks Huhtanen             | 1948
+Aladr Gerevich (-Gerei)                 | 1952
+Galina Yakovlevna Minaicheva            | 1952
+gnes Keleti-Srkny (Klein)               | 1952
+Hans Eugster                            | 1952
+Margit Korondi (Kronstein-, -Plachy)    | 1952
+Edy Sixten Jernberg                     | 1956
+Larysa Semenivna Latynina (Diriy-)      | 1956
+Olga Tass-Lemhnyi (Todenbier-)          | 1956
+Takashi Ono                             | 1956
+Tamara Ivanovna Manina                  | 1956
+Viktor Ivanovych Chukarin               | 1956
+Walter Thane Baker                      | 1956
+Yury Yevlampiyevich Titov               | 1956
+Borys Anfiyanovych Shakhlin             | 1960
+Iain Murray Rose                        | 1960
+Larysa Semenivna Latynina (Diriy-)      | 1960
+Polina Hryhorivna Astakhova             | 1960
+Sofiya Ivanovna Muratova (Poduzdova-)   | 1960
+Takashi Ono                             | 1960
+Veikko Johannes Hakulinen               | 1960
+Borys Anfiyanovych Shakhlin             | 1964
+Franco Menichelli                       | 1964
+Larysa Semenivna Latynina (Diriy-)      | 1964
+Mary Denise Bignal-Rand (-Toomey)       | 1964
+Polina Hryhorivna Astakhova             | 1964
+Akinori Nakayama                        | 1968
+Eleanor Suzanne "Ellie" Daniel          | 1968
+Jan Margo Henne (-Hawkins)              | 1968
+Linda Lee Gustavson (-McGuire)          | 1968
+Mark Andrew Spitz                       | 1968
+Michael Vincent "Mike" Wenden           | 1968
+Mikhail Yakovlevich Voronin             | 1968
+Zinaida Borisovna Voronina              | 1968
+Akinori Nakayama                        | 1972
+Eizo Kenmotsu                           | 1972
+Jerme Alan "Jerry" Heidenreich          | 1972
+Karin Janz (-Bttner)                    | 1972
+Lyudmila Ivanovna Turishcheva           | 1972
+Nikolay Yefimovich Andrianov            | 1972
+Roland Matthes                          | 1972
+Shane Elizabeth Gould (-Innis)          | 1972
+Shigeru Kasamatsu                       | 1972
+Susanne Jean "Susie" Atwood             | 1972
+Tamara Vasilyevna Lazakovich            | 1972
+Lyudmila Ivanovna Turishcheva           | 1976
+Mitsuo Tsukahara                        | 1976
+Nadia Elena Comneci (-Conner)           | 1976
+Nikolay Yefimovich Andrianov            | 1976
+Renate Stecher (Meiner-)                | 1976
+Sheila Grace Young (-Ochowicz)          | 1976
+Wendy Lou Lansbach Boglioli             | 1976
+Aleksandr Nikolayevich Dityatin         | 1980
+Ines Diers (-Noack)                     | 1980
+Maxi Gnauck                             | 1980
+Nikolay Yefimovich Andrianov            | 1980
+Roland Brckner                          | 1980
+Volodymyr Viktorovych Smyrnov           | 1980
+Anne Ottenbrite (-Muylaert)             | 1984
+Eirik Kvalfoss                          | 1984
+Gunde Anders Svan                       | 1984
+Koji Gushiken                           | 1984
+Li Ning                                 | 1984
+Mary Lou Retton (-Kelley)               | 1984
+Mitchell Jay "Mitch" Gaylord            | 1984
+Peter Angerer                           | 1984
+Shinji Morisue                          | 1984
+Christopher Paul MacDonald              | 1988
+Holger Behrendt                         | 1988
+Matthew Nicholas "Matt" Biondi          | 1988
+Svetlana Leonidovna Boginskaya          | 1988
+Uwe Daler                               | 1988
+Vanya Atanasova Gesheva (-Tsvetkova)    | 1988
+Viorica Daniela Siliva (-Harper)        | 1988
+Yelena Lvovna Shushunova                | 1988
+Lavinia Corina Miloovici                | 1992
+Li Xiaoshuang                           | 1992
+Nadia Anita Louise Nall (-Richesson)    | 1992
+Rita Kbn                                | 1992
+Stefania Belmondo                       | 1992
+Summer Elisabeth Sanders                | 1992
+Tetiana Kostiantynivna Hutsu            | 1992
+Manuela Di Centa                        | 1994
+Sergey Petrovich Tarasov                | 1994
+Verena "Vreni" Schneider                | 1994
+Aleksey Yuryevich Nemov                 | 1996
+Simona Amnar (-Tabr)                    | 1996
+Susan "Susie" O'Neill                   | 1996
+Larisa Yevgenyevna Lazutina             | 1998
+Ursula "Uschi" Disl                     | 1998
+Aleksey Yuryevich Nemov                 | 2000
+Dmitry Ivanovich Sautin                 | 2000
+Gary Wayne Hall, Jr.                    | 2000
+Li Na                                   | 2000
+Massimiliano Edgar Rosolino             | 2000
+Bente Skari-Martinsen                   | 2002
+Stefania Belmondo                       | 2002
+Stephan Eberharter                      | 2002
+Yang Yang                               | 2002
+Yuliya Anatolyevna Chepalova            | 2002
+Bradley Marc Wiggins                    | 2004
+Brendan Joseph Hansen                   | 2004
+Ian James Thorpe                        | 2004
+Ian Lowell Crocker                      | 2004
+Inge de Bruijn                         | 2004
+Justin Alexander Gatlin                 | 2004
+Kaitlin Shea Sandeno (-Hogan)           | 2004
+Kirsty Leigh Coventry (-Seward)         | 2004
+Laure Manaudou                          | 2004
+Leisel Marie Jones                      | 2004
+Natalie Anne Coughlin (-Hall)           | 2004
+Roland Mark Schoeman                    | 2004
+Chad Paul Hedrick                       | 2006
+Cynthia Nicole "Cindy" Klassen          | 2006
+Georg Hettich                           | 2006
+Wang Meng                               | 2006
+Alain Andr Louis Edmond Bernard         | 2008
+Anastasiya Valeryevna "Nastia" Liukin   | 2008
+Lisbeth Constance "Libby" Lenton        | 2008
+Natalie Anne Coughlin (-Hall)           | 2008
+Aksel Lund Svindal                      | 2010
+Justyna Kowalczyk                       | 2010
+Marit Bjrgen                            | 2010
+Petter Northug, Jr.                     | 2010
+Samuel Bode Miller                      | 2010
+Alicia Jayne Coutts                     | 2012
+Aliya Farkhatovna Mustafina             | 2012
+Allison Rodgers Schmitt                 | 2012
+Camille-Marie Manuella Muffat           | 2012
+Carmelita Jeter                         | 2012
+Ryan Steven Lochte                      | 2012
+Sun Yang                                | 2012
+Shim Seok-Hui                           | 2014
+Tora Berger (-Tveldal)                  | 2014
+Aliya Farkhatovna Mustafina             | 2016
+Dana Whitney Vollmer (-Grant)           | 2016
+Emma McKeon                             | 2016
+Frentorish "Tori" Bowie                 | 2016
+Kosuke Hagino                           | 2016
+Madeline Jane "Maya" DiRado             | 2016
+Penelope "Penny" Oleksiak               | 2016
+Sarah Frederica Sjstrm                  | 2016
+
+
+
+
+
+--8 find players who have won gold medals in consecutive 3 summer olympics in the same event . Consider only olympics 2000 onwards. 
+--Assume summer olympics happens every 4 year starting 2000. print player name and event name.
+Name                                          | Year | Event                                                        | Prev_Year | Next_Year
+----------------------------------------------|------|-------------------------------------------------------------|-----------|-----------
+Allyson Michelle Felix                        | 2012 | Athletics Women's 4 x 400 metres Relay                      | 2008      | 2016
+Anastasiya Semyonovna Davydova                | 2008 | Synchronized Swimming Women's Team                          | 2004      | 2012
+Artur Borisovich Taymazov                     | 2008 | Wrestling Men's Super-Heavyweight, Freestyle                | 2004      | 2012
+Brendan Joseph Hansen                          | 2008 | Swimming Men's 4 x 100 metres Medley Relay                  | 2004      | 2012
+Carmelo Kyan Anthony                          | 2012 | Basketball Men's Basketball                                 | 2008      | 2016
+Chen Ruolin                                   | 2012 | Diving Women's Synchronized Platform                        | 2008      | 2016
+Christie Patricia Pearce-Rampone              | 2008 | Football Women's Football                                   | 2004      | 2012
+Diana Lurena Taurasi                          | 2008 | Basketball Women's Basketball                               | 2004      | 2012
+Diana Lurena Taurasi                          | 2012 | Basketball Women's Basketball                               | 2008      | 2016
+Edward "Ed" Clancy                            | 2012 | Cycling Men's Team Pursuit, 4,000 metres                    | 2008      | 2016
+Eleanor "Elle" Logan                          | 2012 | Rowing Women's Coxed Eights                                 | 2008      | 2016
+Elvira Ramilevna Khasyanova                   | 2008 | Synchronized Swimming Women's Team                          | 2004      | 2012
+Georgeta Damian-Andrunache                    | 2004 | Rowing Women's Coxless Pairs                                | 2000      | 2008
+Gergely "Gerg" Kiss                           | 2004 | Water Polo Men's Water Polo                                 | 2000      | 2008
+Heather Ann OReilly (-Werry)                  | 2008 | Football Women's Football                                   | 2004      | 2012
+Heather Blaine Mitts (-Feeley)                | 2008 | Football Women's Football                                   | 2004      | 2012
+Ian Lowell Crocker                            | 2004 | Swimming Men's 4 x 100 metres Medley Relay                  | 2000      | 2008
+Jason Edward Lezak                            | 2004 | Swimming Men's 4 x 100 metres Medley Relay                  | 2000      | 2008
+Jason Francis Kenny                           | 2012 | Cycling Men's Team Sprint                                   | 2008      | 2016
+Jin Jong-O                                    | 2012 | Shooting Men's Free Pistol, 50 metres                       | 2008      | 2016
+Kaori Icho                                    | 2008 | Wrestling Women's Middleweight, Freestyle                   | 2004      | 2012
+Katherine May "Katie" Smith                   | 2004 | Basketball Women's Basketball                               | 2000      | 2008
+Katrin Wagner-Augustin                        | 2004 | Canoeing Women's Kayak Fours, 500 metres                    | 2000      | 2008
+Kerri Lee Walsh Jennings                      | 2008 | Beach Volleyball Women's Beach Volleyball                   | 2004      | 2012
+Kristin Ann Armstrong (-Savola)               | 2012 | Cycling Women's Individual Time Trial                       | 2008      | 2016
+Lisa Deshawn Leslie (-Lockwood)               | 2004 | Basketball Women's Basketball                               | 2000      | 2008
+Maria Valentina Vezzali                       | 2004 | Fencing Women's Foil, Individual                            | 2000      | 2008
+Mariya Igorevna Gromova                       | 2008 | Synchronized Swimming Women's Team                          | 2004      | 2012
+Michael Fred Phelps, II                        | 2008 | Swimming Men's 100 metres Butterfly                         | 2004      | 2012
+Michael Fred Phelps, II                        | 2008 | Swimming Men's 200 metres Individual Medley                 | 2004      | 2012
+Michael Fred Phelps, II                        | 2012 | Swimming Men's 200 metres Individual Medley                 | 2008      | 2016
+Michael Fred Phelps, II                        | 2008 | Swimming Men's 4 x 100 metres Medley Relay                  | 2004      | 2012
+Michael Fred Phelps, II                        | 2012 | Swimming Men's 4 x 100 metres Medley Relay                  | 2008      | 2016
+Michael Fred Phelps, II                        | 2008 | Swimming Men's 4 x 200 metres Freestyle Relay               | 2004      | 2012
+Michael Fred Phelps, II                        | 2012 | Swimming Men's 4 x 200 metres Freestyle Relay               | 2008      | 2016
+Mijan Lpez Nez                                | 2012 | Wrestling Men's Super-Heavyweight, Greco-Roman              | 2008      | 2016
+Misty Erie May-Treanor                        | 2008 | Beach Volleyball Women's Beach Volleyball                   | 2004      | 2012
+Nataliya Sergeyevna Ishchenko                 | 2012 | Synchronized Swimming Women's Team                          | 2008      | 2016
+Pavol Hochschorner                            | 2004 | Canoeing Men's Canadian Doubles, Slalom                     | 2000      | 2008
+Peter Hochschorner                            | 2004 | Canoeing Men's Canadian Doubles, Slalom                     | 2000      | 2008
+Pter Biros                                    | 2004 | Water Polo Men's Water Polo                                 | 2000      | 2008
+Ryan Steven Lochte                            | 2008 | Swimming Men's 4 x 200 metres Freestyle Relay               | 2004      | 2012
+Ryan Steven Lochte                            | 2012 | Swimming Men's 4 x 200 metres Freestyle Relay               | 2008      | 2016
+Sanya Richards-Ross                           | 2008 | Athletics Women's 4 x 400 metres Relay                      | 2004      | 2012
+Saori Yoshida                                 | 2008 | Wrestling Women's Lightweight, Freestyle                    | 2004      | 2012
+Seimone Delicia Augustus                      | 2012 | Basketball Women's Basketball                               | 2008      | 2016
+Shannon Leigh Boxx                            | 2008 | Football Women's Football                                   | 2004      | 2012
+Suzanne Brigit "Sue" Bird                     | 2008 | Basketball Women's Basketball                               | 2004      | 2012
+Suzanne Brigit "Sue" Bird                     | 2012 | Basketball Women's Basketball                               | 2008      | 2016
+Svetlana Alekseyevna Romashina                | 2012 | Synchronized Swimming Women's Team                          | 2008      | 2016
+Sylvia Shaqueria Fowles                       | 2012 | Basketball Women's Basketball                               | 2008      | 2016
+Tamika Devonne Catchings                      | 2008 | Basketball Women's Basketball                               | 2004      | 2012
+Tamika Devonne Catchings                      | 2012 | Basketball Women's Basketball                               | 2008      | 2016
+Tams Kss                                      | 2004 | Water Polo Men's Water Polo                                 | 2000      | 2008
+Tams Molnr                                    | 2004 | Water Polo Men's Water Polo                                 | 2000      | 2008
+Theodora Elisabeth Gerarda "Anky" van Grunsven | 2004 | Equestrianism Mixed Dressage, Individual                    | 2000      | 2008
+Tibor Benedek                                 | 2004 | Water Polo Men's Water Polo                                 | 2000      | 2008
+Usain St. Leo Bolt                            | 2012 | Athletics Men's 100 metres                                  | 2008      | 2016
+Usain St. Leo Bolt                            | 2012 | Athletics Men's 200 metres                                  | 2008      | 2016
+Wu Minxia                                     | 2008 | Diving Women's Synchronized Springboard                     | 2004      | 2012
+Wu Minxia                                     | 2012 | Diving Women's Synchronized Springboard                     | 2008      | 2016
+Zoltn Szcsi                                   | 2004 | Water Polo Men's Water Polo                                 | 2000      | 2008
